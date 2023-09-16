@@ -1,4 +1,4 @@
-public class Main{
+public class MainPrograma2{
     static int sum(int arr[], int n)
     {
         int res = 0;
