@@ -20,7 +20,7 @@ public class Main{
         int arr[] = { 1, 2, 3, 4, 5 };
         int n = 5;
         int num1 = sum(arr, n);
-        int x = 4;
+        int x = 5;
         int num2 = recurPar(x);
         System.out.println("o valor da soma :"+ num1);
         System.out.println("o valor do recuperapar :"+ num2);

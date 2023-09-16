@@ -1,3 +1,8 @@
+#Atividade Mips 2.2 - Tradução do programa 2.java
+#Alunos : Pedro Henrique de Almeida Santos, Izadora Freitas e Wandson Emanuel 
+#O resultado do chamamento da função sum está guardado no registrador t4
+#O resultado do chamamento da função RecurPar está guardado no registrador t6
+
 .data
 arr: .word 1, 2, 3, 4, 5
 n: .word 5
@@ -51,8 +56,7 @@ recurPar_exit:
                 
 
 exit:
-#O resultado do chamamento da função sum está guardado no registrador t4
-#O resultado do chamamento da função RecurPar está guardado no registrador t6
+
 
 
 
